@@ -18,7 +18,7 @@ Laravel Angular Time Tracker is a simple time tracking application built on Lara
 
 ###### 1. Clone the repository using the following command in terminal:
 
-	`git clone https://github.com/jeremykenedy/laravel-time-tracker.git laravel-time-tracker`
+	`git clone https://github.com/bigman1208000/laravel-time-tracker.git laravel-time-tracker`
 
 ###### 2. Pull and Install Laravel Dependencies:
 
@@ -57,4 +57,4 @@ Laravel Angular Time Tracker is a simple time tracking application built on Lara
 * [jQuery 2.2.4](http://api.jquery.com/)
 
 ### III. License
-[MIT license](https://github.com/jeremykenedy/angular-timetracker/blob/master/LICENSE) included
+[MIT license](https://github.com/bigman1208000/angular-timetracker/blob/master/LICENSE) included
